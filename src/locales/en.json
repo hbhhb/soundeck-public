@@ -1,0 +1,126 @@
+{
+    "header": {
+        "searchPlaceholder": "Search sounds...",
+        "signInWithGoogle": "Sign in with Google",
+        "signOut": "Sign Out",
+        "signedInAs": "Signed in as",
+        "storage": "Storage",
+        "resetToDefaults": "Reset to defaults",
+        "deleteAccount": "Delete Account",
+        "addAudio": "Add sound",
+        "masterVolume": "Master Volume",
+        "theme": "Theme",
+        "themeDark": "Dark",
+        "themeLight": "Light",
+        "cancel": "Cancel",
+        "language": "Language"
+    },
+    "hero": {
+        "title": "My own free web soundboard",
+        "description": "Just open Soundeck and you’re ready!\nDrag to arrange your board and use hotkeys or click to play sounds."
+    },
+    "dashboard": {
+        "play": "Play",
+        "stop": "Stop",
+        "loop": "Loop",
+        "volume": "Volume"
+    },
+    "soundCard": {
+        "volume": "Volume",
+        "editInfo": "Edit info",
+        "trimRange": "Trim range",
+        "delete": "Delete",
+        "play": "Play",
+        "pause": "Pause",
+        "stop": "Stop",
+        "trimmed": "(Trimmed)",
+        "defaultSound": "Default Sound",
+        "unknownSize": "Unknown Size",
+        "storageUsage": "Storage Usage"
+    },
+    "editModal": {
+        "title": "Edit sound info",
+        "labelEmoji": "Emoji",
+        "labelTitle": "Title",
+        "labelHotkey": "Hotkey",
+        "hotkeyPlaceholder": "Click to set hotkey",
+        "hotkeyLoop": "Press any key...",
+        "pressEc": "Press ESC to cancel",
+        "done": "Done",
+        "clearHotkey": "Clear hotkey"
+    },
+    "hotkeyDialog": {
+        "title": "Set Hotkey",
+        "description": "Press any key to set a hotkey for \"{{title}}\"",
+        "current": "Current Hotkey",
+        "clickToSet": "Click above to set or change hotkey"
+    },
+    "waveEditor": {
+        "dragToSelect": "Drag to select playback range",
+        "total": "Total",
+        "play": "Play",
+        "pause": "Pause",
+        "clear": "Clear",
+        "saveRange": "Save Range"
+    },
+    "confirmModal": {
+        "confirm": "Confirm",
+        "cancel": "Cancel",
+        "resetTitle": "Reset to Defaults?",
+        "resetDescription": "This action will:\n\n• Delete all uploaded audio files\n• Remove all custom settings\n• Restore default soundboard\n\nThis action cannot be undone.",
+        "deleteSoundTitle": "Are you sure?",
+        "deleteSoundDescription": "This action cannot be undone. This will permanently delete the sound."
+    },
+    "deleteAccountModal": {
+        "title": "Delete Account?",
+        "description1": "Are you sure you want to delete your account?",
+        "description2": "This will permanently delete:",
+        "item1": "All uploaded audio files ({{size}})",
+        "item2": "All custom settings",
+        "item3": "Your account information",
+        "warning": "This action CANNOT be undone.",
+        "typeToConfirm": "Type <bold>{{text}}</bold> to confirm",
+        "button": "Delete Account",
+        "confirmText": "DELETE ACCOUNT"
+    },
+    "common": {
+        "loading": "Loading...",
+        "buyMeACoffee": "Buy me a coffee"
+    },
+    "toast": {
+        "failedToLoadData": "Failed to load your data",
+        "settingsAutoSaved": "Settings auto-saved",
+        "soundsAutoSaved": "Sounds auto-saved",
+        "soundRemoved": "Sound removed",
+        "deletingSound": "Deleting sound...",
+        "soundDeleted": "Sound deleted",
+        "failedToDeleteSound": "Failed to delete sound",
+        "resettingToDefaults": "Resetting to defaults...",
+        "resetToDefaultsSuccess": "Successfully reset to defaults",
+        "resetToDefaultsFailed": "Failed to reset to defaults",
+        "hotkeyCaptureCancelled": "Hotkey capture cancelled",
+        "hotkeySet": "Hotkey set to: {{hotkey}}",
+        "signedInSuccess": "Successfully signed in!",
+        "signedOut": "Sign out",
+        "signInFailed": "Sign in failed: {{error}}",
+        "processing": "Processing {{name}}...",
+        "uploading": "Uploading {{name}}...",
+        "addedSound": "Added {{title}}",
+        "failedToLoadAudio": "Failed to load {{name}}",
+        "storageLimitExceeded": "Storage limit exceeded",
+        "fileTooLarge": "File is too large (>5MB)",
+        "fileTooLargeWithName": "{{name}} is too large (>5MB)",
+        "uploadFailed": "Failed to upload {{name}}: {{error}}",
+        "deletingAccount": "Deleting account...",
+        "accountDeleted": "Account deleted successfully",
+        "failedToDeleteAccount": "Failed to delete account",
+        "hotkeyCleared": "Hotkey cleared",
+        "trimCleared": "Trim range cleared",
+        "trimSaved": "Trim range saved"
+    },
+    "footer": {
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms Of Service",
+        "rights": "Soundeck. All rights reserved."
+    }
+}
